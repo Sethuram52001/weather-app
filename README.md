@@ -1,3 +1,4 @@
+I have built this weather-app using "https://openweathermap.org/api" API.
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
