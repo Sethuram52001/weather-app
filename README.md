@@ -1,3 +1,5 @@
+The weather-app is built on React using "openweathermap.org/api" API.
+You could visit the page using this url:"https://weather-app-fb6c8.web.app/", deployed using firebase.
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
